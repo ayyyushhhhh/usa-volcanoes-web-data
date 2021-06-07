@@ -1,0 +1,7 @@
+This project will be based on Folium as we need a world map to pick geographical data. 
+
+Folium - Folium is a Python library used for visualizing geospatial data. It is easy to 
+use and yet a powerful library. Folium is a Python wrapper for Leaflet. js which is a 
+leading open-source JavaScript library for plotting interactive maps. It has the power of Leaflet. 
+
+Folium has a class called Map which we use in our project.
